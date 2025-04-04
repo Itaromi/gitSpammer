@@ -1,0 +1,23 @@
+{
+  "name": "gitspammer",
+  "version": "1.0.0",
+  "description": "a simple git spammer to falsify your statistics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Itaromi/gitSpammer.git"
+  },
+  "author": "Youn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Itaromi/gitSpammer/issues"
+  },
+  "homepage": "https://github.com/Itaromi/gitSpammer#readme",
+  "dependencies": {
+    "simple-git": "^3.27.0"
+  }
+}
